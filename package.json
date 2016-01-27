@@ -1,0 +1,28 @@
+{
+  "name": "rtx",
+  "version": "0.0.1",
+  "description": "Real Time Experts",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorhayduk/rtx.git"
+  },
+  "keywords": [
+    "Real",
+    "Time",
+    "Experts",
+    "webrtc"
+  ],
+  "author": "Taylor Hayduk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorhayduk/rtx/issues"
+  },
+  "homepage": "https://github.com/taylorhayduk/rtx#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
